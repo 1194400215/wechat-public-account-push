@@ -60,7 +60,7 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: [om3lU6ols0FqxiD5BxuHkW95CpiE
     {
       // 想要发送的人的名字
       name: '悦宝',
@@ -82,7 +82,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '老婆', year: '1996', date: '09-09',
+          type: '生日', name: '悦宝', year: '1998', date: '09-26',
         },
         {
           type: '节日', name: '结婚纪念日', year: '2020', date: '09-03',
